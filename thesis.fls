@@ -1,8 +1,8 @@
-PWD /Users/daniellanghann/Downloads/Expose_Schema_fuer_Graphdatenbanken
+PWD /Users/daniellanghann/src/graph-databases
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/daniellanghann/Downloads/Expose_Schema_fuer_Graphdatenbanken/thesis.tex
+INPUT /Users/daniellanghann/src/graph-databases/thesis.tex
 OUTPUT thesis.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/silence/silence.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/silence/silence.sty
