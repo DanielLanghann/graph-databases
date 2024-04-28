@@ -16,5 +16,59 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
+\datalist[entry]{nyt/global//global/global}
+  \entry{hare_isoiec_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HKW}{%
+         family={Hare},
+         familyi={H\bibinitperiod},
+         given={Keith\bibnamedelima W.},
+         giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HKW1}
+    \strng{fullhash}{HKW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Har24}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{{ISO}/{IEC} 39075:2024 {Information} {Technology} – {Database} languages}
+    \verb{url}
+    \verb https://jtc1info.org/slug/gql-database-language/
+    \endverb
+    \field{month}{04}
+    \field{year}{2024}
+    \field{urlday}{28}
+    \field{urlmonth}{04}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{yuanyuan_tian_world_2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=YT}{%
+         family={Yuanyuan},
+         familyi={Y\bibinitperiod},
+         given={Tian},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YT1}
+    \strng{fullhash}{YT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Yua22}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{title}{The {World} of {Graph} {Databases} from {An} {Industry} {Perspective}}
+    \verb{url}
+    \verb https://arxiv.org/pdf/2211.13170
+    \endverb
+    \field{month}{11}
+    \field{year}{2022}
+    \field{urlday}{28}
+    \field{urlmonth}{04}
+    \field{urlyear}{2024}
+  \endentry
+\enddatalist
 \endinput
